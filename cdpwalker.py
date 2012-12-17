@@ -1,4 +1,4 @@
-#!/usr/bin/env pytho
+#!/usr/bin/env python
 #
 # Version: 0.815
 # Author: jochen.bartl@gmail.com
@@ -6,10 +6,8 @@
 #
 # WARNING: Crappy code, way to much stuff is hardcoded, ....
 #
-# Rewrite in progress, Release: when it is done ;-)
-#
 # Usage:
-#         ./foo.py topology.dot 192.168.0.1
+#         ./cdpwalker.py topology.dot 192.168.0.1
 #         dot -Tpdf -o topology.pdf topology.dot
 #
 
